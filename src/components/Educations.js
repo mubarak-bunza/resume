@@ -7,7 +7,9 @@ export default class Educations extends Component {
             <div id="education">
                 <div className="card">
                     <div className="card-content">
-                        <h6>Education and Certifications</h6>
+                        <h6>
+                            <strong>Education and Certifications</strong>
+                        </h6>
                         <table className="striped">
                             <thead>
                                 <tr>
@@ -18,8 +20,8 @@ export default class Educations extends Component {
                             </thead>
                             <tbody>
                                 <tr>
-                                    <td>Web Development</td>
-                                    <td>Jan 2018</td>
+                                    <td>Associate Cloud Engineer (Google Cloud) </td>
+                                    <td>July, 2021</td>
                                     <td>
                                         <Link to="#" className="btn blue lighten-2">
                                             View
@@ -27,17 +29,17 @@ export default class Educations extends Component {
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td>Web Development</td>
-                                    <td>Jan 2018</td>
+                                    <td>Software Engineering and Leadership (Decagon)</td>
+                                    <td>June, 2021</td>
                                     <td>
                                         <Link to="#" className="btn blue lighten-2">
                                             View
                                         </Link>
                                     </td>
                                 </tr>
-                                <tr>
-                                    <td>Web Development</td>
-                                    <td>Jan 2018</td>
+                                 <tr>
+                                    <td>Bsc Computer Science (Federal University Birnin Kebbi)</td>
+                                    <td>November, 2018</td>
                                     <td>
                                         <Link to="#" className="btn blue lighten-2">
                                             View

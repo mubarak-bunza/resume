@@ -6,7 +6,9 @@ export default class About extends Component {
             <div>
                 <div className="card">
                     <div className="card-content">
-                        <h6 className="mt-bottom">About Me</h6>
+                        <h6 className="mt-bottom">
+                            <strong>About Me</strong>    
+                        </h6>
                         <p className="grey-text">
                             As a passionate Software Engineer, I enjoy building light web solutions using best Software Development practices for the satisfaction I get by overcoming challenges. I easily adapt to latest technological advancements and build solutions around them.
                         </p>

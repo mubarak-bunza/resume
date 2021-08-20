@@ -6,14 +6,14 @@ export default class Experiences extends Component {
             <div id="experiences">
                 <div className="card">
                     <div className="card-content">
-                        <h6>Experiences</h6>
+                        <h6>
+                            <strong>Experiences</strong>
+                        </h6>
                         {/* row */}
                         <div className="row">
                             <div className="col s12 m4 l4 xl4">
                                 <p className="teal year_exp white-text">
-                                    May <strong>2021</strong>
-                                     -
-                                    July <strong>2021</strong>
+                                    May <strong>2021</strong> - July <strong>2021</strong>
                                 </p>
                             </div>
                             <div className="col s12 m8 l8 xl8">
@@ -49,9 +49,7 @@ export default class Experiences extends Component {
                         <div className="row">
                             <div className="col s12 m4 l4 xl4">
                                 <p className="teal year_exp white-text">
-                                    November <strong>2020</strong>
-                                    -
-                                    May <strong>2021</strong>
+                                    November <strong>2020</strong> - May <strong>2021</strong>
                                 </p>
                             </div>
                             <div className="col s12 m8 l8 xl8">
@@ -73,9 +71,7 @@ export default class Experiences extends Component {
                         <div className="row">
                             <div className="col s12 m4 l4 xl4">
                                 <p className="teal year_exp white-text">
-                                    Septemter <strong>2019</strong>
-                                    -
-                                    March <strong>2020</strong>
+                                    Septemter <strong>2019</strong> - March <strong>2020</strong>
                                 </p>
                             </div>
                             <div className="col s12 m8 l8 xl8">
@@ -85,7 +81,7 @@ export default class Experiences extends Component {
                                     </h6>
                                     <ul>
                                         <li>Worked with a team in developing web applications using latest web technologies.</li>
-                                        <li>Mentoring interns on Web Development.</li>
+                                        <li>Mentored interns on Web Development.</li>
                                     </ul>
                                 </blockquote>
                             </div>

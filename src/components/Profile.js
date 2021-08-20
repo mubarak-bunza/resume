@@ -20,14 +20,16 @@ export default class Profile extends Component {
                         <p>Full Stack Engineer</p> 
                     </div> 
                     <div className="card-reveal">
-                        <span className="card-title grey-text text-darken-4">
+                        <span style={{}} className="card-title grey-text text-darken-4">
                             Follow Me
                             <i className="material-icons">close</i>
                         </span>
                         <p className="flex-container">
                             <i className="fab fa-facebook-f grey-text text-darken-4 social-style"></i>
                             <i className="fab fa-twitter grey-text text-darken-4 social-style"></i>
-                            <i className="fab fa-google-plus-g grey-text text-darken-4 social-style"></i>
+                            <a href="https://www.linkedin.com/in/mubarak-bunza/">
+                                <i className="fab fa-linkedin grey-text text-darken-4 social-style"></i>
+                            </a>
                         </p>
                     </div>  
                 </div> 
