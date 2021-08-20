@@ -8,23 +8,18 @@ export default class About extends Component {
                     <div className="card-content">
                         <h6 className="mt-bottom">About Me</h6>
                         <p className="grey-text">
-                            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus nulla voluptatem asperiores a ut cupiditate minima voluptatum explicabo nesciunt aut, commodi cum nemo iure amet iusto? Quae tempora placeat accusantium.
+                            As a passionate Software Engineer, I enjoy building light web solutions using best Software Development practices for the satisfaction I get by overcoming challenges. I easily adapt to latest technological advancements and build solutions around them.
                         </p>
                     </div>  
                     <div className="card-action">
                         <h6>Personal Info</h6>
                         <div className="row mt">
                             <div className="col s12 m6 l6 xl6">
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
+                                <p><strong>Email:</strong> mubarakabubakar227@gmail.com</p>
+                                <p><strong>Phone:</strong> +234-8060788108</p>
                             </div>
                             <div className="col s12 m6 l6 xl6">
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
-                                <p><em>Address:</em> 123 Lorem</p>
+                                <p><strong>Address:</strong> 7 Asajon Way, Sangotedo, Lagos.</p>
                             </div>
                         </div>
                     </div> 
