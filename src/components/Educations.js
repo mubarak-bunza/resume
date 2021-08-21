@@ -37,6 +37,15 @@ export default class Educations extends Component {
                                         </Link>
                                     </td>
                                 </tr>
+                                <tr>
+                                    <td>Creating Web App with Django + PostgreSQL (Udemy)</td>
+                                    <td>February, 2021</td>
+                                    <td>
+                                        <Link to="#" className="btn blue lighten-2">
+                                            View
+                                        </Link>
+                                    </td>
+                                </tr>
                                  <tr>
                                     <td>Bsc Computer Science (Federal University Birnin Kebbi)</td>
                                     <td>November, 2018</td>

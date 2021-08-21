@@ -22,6 +22,10 @@ export default class About extends Component {
                             </div>
                             <div className="col s12 m6 l6 xl6">
                                 <p><strong>Address:</strong> 7 Asajon Way, Sangotedo, Lagos.</p>
+                                <p>
+                                    <strong>Github Profile: </strong> 
+                                    <a style={{textTransform: 'unset', color: 'rgb(29, 124, 233)'}} href="https://github.com/mubarak-bunza">mubarak-bunza</a>
+                                </p>
                             </div>
                         </div>
                     </div> 

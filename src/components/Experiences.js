@@ -71,7 +71,7 @@ export default class Experiences extends Component {
                         <div className="row">
                             <div className="col s12 m4 l4 xl4">
                                 <p className="teal year_exp white-text">
-                                    Septemter <strong>2019</strong> - March <strong>2020</strong>
+                                    Sept <strong>2019</strong> - March <strong>2020</strong>
                                 </p>
                             </div>
                             <div className="col s12 m8 l8 xl8">

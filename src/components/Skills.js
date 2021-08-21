@@ -35,7 +35,7 @@ export default class Skills extends Component {
                             <div className="col s6">
                                 <p>ReactJS</p>
                                 <div className="progress grey lighten-1">
-                                    <div className="determinate blue" style={{width: '40%'}}></div>
+                                    <div className="determinate blue" style={{width: '35%'}}></div>
                                 </div>
                             </div>
                             <div className="col s6">

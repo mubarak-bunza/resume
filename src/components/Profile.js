@@ -14,9 +14,11 @@ export default class Profile extends Component {
                         </Link>
                     </div>
                     <div className="card-content">
-                        <span className="card-title activator grey-text text-darken-4">
-                            Mubarak Abubakar    
-                        </span>   
+                        <p>
+                            <span className="card-title activator grey-text text-darken-4">
+                                Mubarak Abubakar    
+                            </span>   
+                        </p>
                         <p>Full Stack Engineer</p> 
                     </div> 
                     <div className="card-reveal">

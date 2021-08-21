@@ -2,9 +2,6 @@
   font-size: 15px;
 }
 
-h6 {
-  font-weight: 500;
-}
 .flex-container {
   display: flex;
   flex-direction: row;
