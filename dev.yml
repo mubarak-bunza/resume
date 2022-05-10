@@ -1,11 +1,12 @@
 version: "3.8"
 
 services:
-  resume:
-    container_name: resume
-    image: resume
+  resume-dev:
+    container_name: resume-dev
+    image: resume-dev
     build:
       context: .
+      dockerfile: Dockerfile
     volumes:
       - ./src:/app/src
     ports:

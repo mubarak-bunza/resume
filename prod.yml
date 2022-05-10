@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+  resume-prod:
+    container_name: resume-prod
+    image: resume-prod
+    build:
+      context: .
+      dockerfile: Dockerfile.prod
+    ports:
+      - 80:80
