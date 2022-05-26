@@ -3,7 +3,7 @@ name: resume ci
 on:
   push:
     branches:
-      - 'ft-ci-workflow'
+      - "main"
 
 jobs:
   build:
